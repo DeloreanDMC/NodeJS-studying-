@@ -1,0 +1,4 @@
+hood: капот
+issue: вопрос
+request: запрос
+response: ответ
